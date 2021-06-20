@@ -16,7 +16,7 @@
 |C06     | 70%  ✔️|
 |Exam00  | 52%  ✔️|
 |Exam01  | 28%  ✔️|
-|Fina exam | ?|
+|Final exam | ?|
 |Rush00  | 0%   ❌| 
 |Rush01  | 0%   ❌|
 
